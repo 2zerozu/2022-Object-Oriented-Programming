@@ -16,6 +16,8 @@ public class Add2 {
 
 		sum = x + y;
 		System.out.println(sum);
+		
+		sc.close();
 	}
 
 }

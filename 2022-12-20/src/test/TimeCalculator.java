@@ -15,6 +15,8 @@ public class TimeCalculator {
 		var sec = time % 60;
 
 		System.out.println(time + "초는 " + min + "분 " + sec + "초입니다.");
+
+		sc.close();
 	}
 
 }
