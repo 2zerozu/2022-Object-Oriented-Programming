@@ -32,6 +32,7 @@ public class StringSwitch {
 		}
 
 		System.out.println(model + " 피자의 가격 = " + price);
+		sc.close();
 	}
 
 }
